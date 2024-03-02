@@ -1,0 +1,30 @@
+[
+    {
+        "fname": "Hossam",
+        "lname": "Wasfy",
+        "age": 25,
+        "city": "Mansoura",
+        "id": 1
+    },
+    {
+        "fname": "Hager",
+        "lname": "Hesham",
+        "age": 22,
+        "city": "Mansoura",
+        "id": 2
+    },
+    {
+        "fname": "Omnia",
+        "lname": "Misallam",
+        "age": 23,
+        "city": "Mansoura",
+        "id": 4
+    },
+    {
+        "fname": "Mohamed",
+        "lname": "Momen",
+        "age": 19,
+        "city": "Mansoura",
+        "id": 5
+    }
+]
